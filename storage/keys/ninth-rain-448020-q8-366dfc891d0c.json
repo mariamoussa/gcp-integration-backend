@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ninth-rain-448020-q8",
+  "private_key_id": "366dfc891d0cd04ba73bbaea3931742efd3790f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtb5FEhiXl3hrj\n9YmeYNdnQftYqak4TcxRE4PJBhqu7RGt+bHyfs5T207sEgnmQUHActhrDuHA8l75\nUvyzePcXnRSwL7fFUar8rPQgHY0pEy6D1vFwDNDE4aVuTdhHb2OPH/b9Nqa9R7F3\nBI3pS5Lm5CH5TGr4WYNH0QrZFt5pawoJGrmy46PauFJMX1RPPwZnLP8kydgkcyeb\nAADuk4ZlVH2tz0t9FVRsvtUSrn2HTVyIz/OAuOo/jb8w+WUVGegprYcNWbOCBOWi\nFzxP28J0Fr4tMQq9YhkXEyyU/H8MJWjQFWSxKJsDUFl1W95vHXuEtSoJzw0sM8co\nVNjgclVLAgMBAAECggEAT5LxzsPR3Y6zPcYpVx5NllXCsaJePrQLO2O9wlznnzys\nMOtwhrdBiV4E7vEz0447UcYfn7cbQ0Cw7KnzwZCNpirvFAtAwOrAjd/4vkdwvdjM\nLbdP3T40BzEUivByfAwSXNeopfMOO6gKN3ZCejivdPpU0CIMrle7kRbLaGFCuJCf\nBmngMW0ZeAAE76Rf3+LQtZFxYzlIXMrqHZJTqluSk5HkuTKYs6Ug0FcS3VrIDK6I\nW6VVGBue73kQb9XrEdlqPMosZKzigoBXd/Vpjb9l0bByIBqCtz4v0GtPShsjpHCw\nOOxGXfw59cM8nuhp6AzAyGSsR8L31Jk4y5faZwGG2QKBgQDjYOqUUM2eOpfYOWEo\n0r/uutPQXE73/NntTmjfeakv7kvDiOj3ltJAC33M6KNUeV4Q01Oq0KRW5kqqL9lQ\nInZhTMz0lbZ14yQI8Y79jI5x6IMYp4E+RNT42uoGbecae9jfjG/zeipzjv2wBrVq\nOeDeCiX7Y8RmAuOS/K4g3LhoJQKBgQDDRGQGDvjn5QZFpj56dSkFmpIDLbPpqfVw\n4p2s/cNuMzoAkbG43KsheoPqB8mKnAzC8Ue7EyhGqh39B9BpM64BqdVznWKg1ir9\n1u4kU4rbEC9Hj01FRk3PBGUFLOUSJ3UzY6u2457/EuGfGpOdVX1hdJ8QKmlLmYP9\nVcNkpitUrwKBgQCPD2FIY/abAV6cSq3Y05CzEZVHWWzOFqa+6kCNqqxKXfIJWtDJ\nRnmOlixWimCJO7t1dqEDrjZX/pknrudZxfUZjwq9MJ0WWw1HG0TOPms5PAOPtYRZ\nu1EMKiBoXymyvg1bya5+UHT5NBRldjMaXMQgr93p54GgdVzeFGEyh+z2iQKBgA++\nX+ItKtxnls3ezYLKF3igMc2Xzb21OljTrKrZ+vvTnYWWOaISCKo2WpRv9Ev8sPq2\nwXXP4Ztw8+IG00LoK8tuigs8UUtueSDmR2UeZz+qWmWGpFBFjth2Hj8Ak6eXDtgJ\n3Tptt9AREafmWKiC0A0ffgOrp7m0svOmCo7+5td5AoGAWd6lDZI+47n19J8vMZUD\nsttcmKvdDXBxEj/5U3+yoabPZcLVOYyYxrDCAtNN4AgsQ7DoUVy4+3iCI+DxJxwo\n0sEgQZ5iC4rOKRZY1F9KXluoVO1FcZVcLPNhbO7dM/CNaFuvBUB9mwgA8NBakLt8\nAQdf1dnIajKpWWitaUn6ra4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "maria-moussa@ninth-rain-448020-q8.iam.gserviceaccount.com",
+  "client_id": "109297616701444967169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maria-moussa%40ninth-rain-448020-q8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
