@@ -1,16 +1,18 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\GCPProjectController;
 
-// Test route
-Route::get('/gcp/instances', function () {
-    return response()->json(['message' => 'Route is working']);
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::get('/', function () {
+    return view('welcome');
 });
-
-// Fetch GCP project details
-Route::get('/gcp/project', [GCPProjectController::class, 'getProjectDetails']);
-
-
-
-Route::post('/project-details', [GCPProjectController::class, 'getProjectDetails']);
